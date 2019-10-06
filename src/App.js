@@ -7,7 +7,7 @@ function App() {
     <div className="App">
         Delete React default content
     </div>
-  );
+  )
 }
 
 export default App;
